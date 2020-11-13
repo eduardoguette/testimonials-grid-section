@@ -1,4 +1,4 @@
-## Testimonials grid section [🔗](https://testimonials-grid-section-eg.vercel.app/)
+## Testimonials grid section [🔗](https://grid-testimonials-eg.vercel.app/)
 
 Es un challenge tomado desde la pagina de frontendmentor.io, donde quise poner a prueba los recientes conocimientos adquiridos en una de las plataformas de educación de desarrollo web mas importantes. (Platzi.com). En este challenge podemos ver un ejemplo del grid css utilizando uno de los frameworks mas importante y que mas me gusta React 🚀🌟
 
