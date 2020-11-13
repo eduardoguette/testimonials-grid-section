@@ -11,8 +11,8 @@ This project were created to the following widths:
 
 ### Project ScreenShots
 
-![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/src/images/grid-mobile.jpg?raw=true)
-![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/src/images/grid-desktop.jpg?raw=true)
+![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/mobile.jpg?raw=true)
+![photo](https://github.com/eduardoguette/testimonials-grid-section/blob/main/desktop.jpg?raw=true)
 
 ### Instrucciones de intalación y configuración
 
