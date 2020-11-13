@@ -2,11 +2,6 @@ import React, { Fragment } from 'react';
 import styled from 'styled-components';
 import './styles.css';
 import Footer from './Footer';
-import img1 from './images/image-daniel.jpg';
-import img2 from './images/image-jeanette.jpg';
-import img3 from './images/image-jonathan.jpg';
-import img4 from './images/image-kira.jpg';
-import img5 from './images/image-patrick.jpg';
 const DivGrid = styled.div`
   display: grid;
   grid-template-columns: 1fr;
@@ -125,7 +120,8 @@ const data = [
   {
     name: 'Daniel Clifford',
     status: 'Verified Graduate',
-    img: img1,
+    img:
+      'https://uploads.codesandbox.io/uploads/user/78916d17-0682-4475-b7d4-079396ec696a/dt6B-image-daniel.jpg',
     color_card: 'hsl(263, 55%, 52%)',
     border: 'hsl(263, 49%, 59%)',
     title:
@@ -137,7 +133,8 @@ const data = [
   {
     name: 'Jonathan Walters',
     status: 'Verified Graduate',
-    img: img3,
+    img:
+      'https://uploads.codesandbox.io/uploads/user/78916d17-0682-4475-b7d4-079396ec696a/xeqt-image-jonathan.jpg',
     color_card: 'hsl(217, 19%, 35%)',
     border: 'white',
     title: 'The team was very supportive and kept me motivated',
@@ -148,7 +145,8 @@ const data = [
   {
     name: 'Jeanette Harmon',
     status: 'Verified Graduate',
-    img: img2,
+    img:
+      'https://uploads.codesandbox.io/uploads/user/78916d17-0682-4475-b7d4-079396ec696a/Vk4B-image-jeanette.jpg',
     color_card: 'hsl(0, 0%, 100%)',
     border: 'white',
     title: 'An overall wonderful and rewarding experience',
@@ -159,7 +157,8 @@ const data = [
   {
     name: 'Patrick Abrams',
     status: 'Verified Graduate',
-    img: img5,
+    img:
+      'https://uploads.codesandbox.io/uploads/user/78916d17-0682-4475-b7d4-079396ec696a/BkAy-image-patrick.jpg',
     border: 'hsl(263, 55%, 52%)',
     color_card: 'hsl(219, 29%, 14%)',
     title:
@@ -171,7 +170,8 @@ const data = [
   {
     name: 'Kira Whittle',
     status: 'Verified Graduate',
-    img: img4,
+    img:
+      'https://uploads.codesandbox.io/uploads/user/78916d17-0682-4475-b7d4-079396ec696a/jvFH-image-kira.jpg',
     border: 'white',
     color_card: 'hsl(0, 0%, 100%)',
     title: 'Such a life-changing experience. Highly recommended!',
